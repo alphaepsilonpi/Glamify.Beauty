@@ -1,5 +1,7 @@
 # Glamify.Beauty
 
+Please refer as well to the prototype of Glamify.Beauty: https://github.com/fahmiSD/glamifybeauty.
+
 The following steps were deployed in the recommendation system code which we’ve written for glamify.beauty. The story clearly explains the pipeline in detail, how each section of the code functions and what value it adds to the pipeline :
 
 1.	We start our analysis by reading the raw data which we have scraped/extracted through multiple requests from Amazon.com
